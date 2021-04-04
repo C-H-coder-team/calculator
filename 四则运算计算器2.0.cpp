@@ -4,7 +4,7 @@
    
 using namespace std;
 char f;
-int s1,s2;
+double s1,s2;
 int main()
 {
 cin>>s1>>f>>s2;
