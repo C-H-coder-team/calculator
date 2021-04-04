@@ -1,8 +1,10 @@
 # calculator
 
 -Developed by hxrlz.
+-由hxrlz开发
 
 -The language is Chinese.
+-语言是中文
 -La langue est le chinois.
 -Sprache ist chinesisch.
 -На китайском.
