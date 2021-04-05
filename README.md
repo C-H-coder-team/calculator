@@ -1,8 +1,8 @@
 # calculator
 
--Developed by hxrlz.
+-The version 1.0developed by hxrlz.
 
--由hxrlz开发
+-版本1.0由hxrlz开发
 
 -The language is Chinese.
 
