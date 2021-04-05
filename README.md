@@ -32,3 +32,9 @@
 -ภาษาเป็นภาษาจีน
 
 -भाषा चीनी है।
+
+-The version 2.0 developed by fanjun
+
+-no language.
+
+-The version 2.0 is a good program.
